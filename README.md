@@ -1,0 +1,2 @@
+# PoliticianOutcome
+政治家の法案数関連の見えるかページです
