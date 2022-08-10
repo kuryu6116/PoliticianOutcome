@@ -8,7 +8,14 @@ csv出力するまで
 DBは使わない  
 
 【フロント】
-マークダウン
+マークダウン  
 https://qiita.com/MahoTakara/items/3800e9dc83b530d0a050  
 開発環境  
 https://stackedit.io/
+
+# 開発の流れ  
+【最初】  
+cloneする  
+バックはgoogle colab  
+フロントはhttps://stackedit.io/で開発  
+プルリク
